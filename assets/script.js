@@ -74,5 +74,3 @@ next.addEventListener("click", function () {
   }
   changeImgSlide();
 });
-
-//changer la const i et faire un seul eventListener
